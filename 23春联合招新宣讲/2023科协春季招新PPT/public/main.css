@@ -1,0 +1,16 @@
+* {
+	font-family: FontAwesome, Hiragino Sans GB, Microsoft Yahei, Arial !important; 
+  }
+
+.column h1,.column h2,.column h3,
+.column h4,.column h5,.column h6 {
+	margin: 0.5em 0;
+}
+
+.m-1 { margin: 16px; }
+.m-2 { margin: 32px; }
+.m-3 { margin: 48px; }
+
+.column li {
+	font-size: 24px;
+}
